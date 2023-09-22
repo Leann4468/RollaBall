@@ -43,9 +43,11 @@ Copy the PlayerController and drag to Script folder
 Double click the PlayerController file and type the coding
 
 ## Program:
-Name: G.Tejaswini
-reg no: 212222230157
-c#
+Name: Leann Joby Mathew
+
+reg no: 212222230074
+
+```python
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -87,7 +89,7 @@ public class balls : MonoBehaviour
         GetComponent<Rigidbody>().AddForce(x, y, z);
     }
 }
-
+```
 ## Output:
 ![exp2 img](https://github.com/Leann4468/RollaBall/assets/121165979/b0f04847-fdce-425a-a302-a2ab614beb6d)
 
